@@ -1,0 +1,10 @@
+tqdm
+numpy
+termcolor
+rich
+lpips
+pillow
+torch
+transformers
+diffusers
+telegram-send
