@@ -35,3 +35,16 @@ Once it's completed, you will see a folder named `stats` (by default).
 Then you can use `analyzer.ipynb` to parse the stats, analyze them and make the plots.
 
 PM me on discord or email if you have any questions.
+
+## Citation
+
+```
+@misc{khrapov2024improving,
+      title={Improving Diffusion Models's Data-Corruption Resistance using Scheduled Pseudo-Huber Loss}, 
+      author={Artem Khrapov and Vadim Popov and Tasnima Sadekova and Assel Yermekova and Mikhail Kudinov},
+      year={2024},
+      eprint={2403.16728},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI}
+}
+```
