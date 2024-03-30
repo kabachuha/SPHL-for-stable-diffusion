@@ -582,7 +582,7 @@ def parse_args(input_args=None):
     parser.add_argument(
         "--huber_c",
         type=float,
-        default=0.001,
+        default=0.01,
         help="The huber loss parameter. Only used if one of the huber loss modes is selected with loss_type.",
     )
     parser.add_argument(
